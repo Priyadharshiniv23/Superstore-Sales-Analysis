@@ -1,0 +1,13 @@
+***Key Insights***
+
+1.Evaluated overall business performance by tracking key metrics, including Sales, Profit, Orders, and Profit Margin, to measure operational success.
+
+2.Compared product categories to identify the highest revenue contributors and uncover opportunities for business growth.
+
+3.Analyzed regional sales distribution to highlight high-performing markets and identify regions requiring strategic improvement.
+
+4.Monitored monthly sales trends to understand business performance over time and support forecasting decisions.
+
+5.Examined sub-category performance to identify best-selling products and evaluate customer purchasing patterns.
+
+6.Built an interactive dashboard with dynamic filters and visualizations, enabling stakeholders to explore data efficiently and make informed business decisions.
