@@ -26,11 +26,3 @@ This project presents an interactive **Power BI dashboard** built using the Supe
 - Monthly sales trends indicated steady business growth over time.
 - Interactive filters enable detailed analysis across multiple business dimensions.
 
-```
-
-## 🎯 Business Value
-This dashboard helps business stakeholders monitor sales performance, identify profitable products and regions, track trends, and support strategic decision-making through interactive data visualization.
-
----
-
-⭐ If you found this project useful, feel free to star this repository!
