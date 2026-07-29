@@ -26,13 +26,6 @@ This project presents an interactive **Power BI dashboard** built using the Supe
 - Monthly sales trends indicated steady business growth over time.
 - Interactive filters enable detailed analysis across multiple business dimensions.
 
-
-## 📂 Repository Structure
-```
-├── Dashboard.pbix
-├── Superstore_Dataset.csv
-├── Dashboard_Screenshot.png
-└── README.md
 ```
 
 ## 🎯 Business Value
